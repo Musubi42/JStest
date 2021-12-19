@@ -1,0 +1,19 @@
+{
+  "name": "testing-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "test": "jest ./tests/lib.test.js",
+    "jest": "npm i jest@22.2.2; echo \"Search for a Jest extension\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
